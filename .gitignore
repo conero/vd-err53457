@@ -1,0 +1,8 @@
+vendor
+
+# bin
+master
+*.exe
+
+# ide
+.idea
